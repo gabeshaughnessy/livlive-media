@@ -1,0 +1,12 @@
+checklist for the theme
+
+- register post formats for link, post, image and video
+- customize post loop to show different content for different post types
+- customize post grid to show titles, descriptions and post images
+- ajax content loading for the posts and the projects
+- templates for ajax content, should just be the_content in a box
+- content template for the page sections - keep it simple
+- setup plugins 
+- footer image uploader in the theme options
+- select which pages go in the different content blocks in the theme options
+- Select post category for the news feed in the theme options
